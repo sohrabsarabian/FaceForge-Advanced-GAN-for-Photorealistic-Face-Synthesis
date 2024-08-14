@@ -62,12 +62,12 @@ FaceForge employs a sophisticated architecture for both its Generator and Critic
 
 3. Generate faces:
    ```
-   python generate.py --model_path /path/to/saved/model --num_images 10
+   python generate.py --model_path path/to/your/model.pth --num_images 4 --labels 0,1,2,3
    ```
 
 ## 📊 Results
 
-![Sample Generated Faces](https://placeholder-for-sample-images.com)
+![Sample Generated Faces](Fake_images.png)
 
 Our model achieves impressive results, generating diverse and realistic faces. The self-attention mechanism allows for coherent global structures, while the residual blocks help in capturing fine details.
 
