@@ -42,7 +42,7 @@ FaceForge employs a sophisticated architecture for both its Generator and Critic
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/FaceForge.git
+   git clone https://github.com/sohrabsarabian/FaceForge-Advanced-GAN-for-Photorealistic-Face-Synthesis.git
    cd FaceForge
    ```
 
